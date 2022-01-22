@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Inter;
+  font-size: 80px;
+  background: linear-gradient(45deg, #cc2b5e, #86fde8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+
+
+
