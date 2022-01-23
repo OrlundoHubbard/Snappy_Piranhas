@@ -20,6 +20,9 @@ https://github.com/HashLips/hashlips_nft_contract
 
 https://snappypiranhas.io/
 
+<img width="767" alt="Screen Shot 2022-01-22 at 9 48 35 PM" src="https://user-images.githubusercontent.com/88997637/150663984-4bdefe92-e9f6-4b79-a23f-28e970797966.png">
+
+
 Check out the site and go and grab yourself a Snappy Piranha!
 
 It literally cost nothing! Maybe just a bit of gas. I minted it on the Polygon (Matic) network so that it wouldn't cost a ton of gas. 
